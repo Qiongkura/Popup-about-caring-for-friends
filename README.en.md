@@ -77,7 +77,7 @@ No automated tests available. You can manually run the script to observe if the 
 
 ## License
 
-This project has no specified license. Please contact the project maintainer to confirm usage permissions before use.
+This project is licensed under the [MIT](LICENSE) license.
 
 ## Contact
 

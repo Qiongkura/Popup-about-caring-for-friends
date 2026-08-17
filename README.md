@@ -4,6 +4,7 @@
 
 **中文** | [English](README.en.md)
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Star](https://img.shields.io/github/stars/Qiongkura/Popup-about-caring-for-friends.svg)](https://github.com/Qiongkura/Popup-about-caring-for-friends/stargazers)
 [![Issues](https://img.shields.io/github/issues/Qiongkura/Popup-about-caring-for-friends.svg)](https://github.com/Qiongkura/Popup-about-caring-for-friends/issues)
 
@@ -95,7 +96,7 @@ python main.py
 
 ## 📄 许可证
 
-本项目未指定许可证。请在使用前联系项目维护者确认使用权限。
+本项目采用 [MIT](LICENSE) 许可证。
 
 ## 📮 联系方式
 
